@@ -1,0 +1,22 @@
+﻿<Window x:Class="set.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="980" Width="Auto" KeyDown="Window_KeyDown"
+        Name="Root">
+    <StackPanel Orientation="Vertical">
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Name="elapsed" Margin="10"></TextBlock>
+            <TextBlock Name="remaining" Margin="10"></TextBlock>
+            <TextBlock Name="Info" Margin="10"></TextBlock>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <StackPanel Orientation="Horizontal" Name="Columns"></StackPanel>
+            
+            <StackPanel Orientation="Vertical" Margin="30">
+            <TextBlock Name="ScoresHeader" FontSize="30">Top Scores:</TextBlock>
+            <StackPanel Orientation="Vertical" Name="TopScores">
+            </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</Window>

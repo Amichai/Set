@@ -1,0 +1,13 @@
+c:\users\amichai\documents\visual studio 2010\Projects\set\set\bin\Debug\set.exe
+c:\users\amichai\documents\visual studio 2010\Projects\set\set\bin\Debug\set.pdb
+c:\users\amichai\documents\visual studio 2010\Projects\set\set\obj\x86\Debug\MainWindow.baml
+c:\users\amichai\documents\visual studio 2010\Projects\set\set\obj\x86\Debug\MainWindow.g.cs
+c:\users\amichai\documents\visual studio 2010\Projects\set\set\obj\x86\Debug\App.g.cs
+c:\users\amichai\documents\visual studio 2010\Projects\set\set\obj\x86\Debug\set_MarkupCompile.cache
+c:\users\amichai\documents\visual studio 2010\Projects\set\set\obj\x86\Debug\set.g.resources
+c:\users\amichai\documents\visual studio 2010\Projects\set\set\obj\x86\Debug\set.Properties.Resources.resources
+c:\users\amichai\documents\visual studio 2010\Projects\set\set\obj\x86\Debug\set.csproj.GenerateResource.Cache
+c:\users\amichai\documents\visual studio 2010\Projects\set\set\obj\x86\Debug\set.exe
+c:\users\amichai\documents\visual studio 2010\Projects\set\set\obj\x86\Debug\set.pdb
+c:\users\amichai\documents\visual studio 2010\Projects\set\set\obj\x86\Debug\CardControl.baml
+c:\users\amichai\documents\visual studio 2010\Projects\set\set\obj\x86\Debug\CardControl.g.cs
